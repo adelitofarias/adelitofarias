@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelitofarias&label=Profile%20views&color=0e75b6&style=flat" alt="mayribeirofernandes" /> </p>
 
-### Que alegria receber sua visita! Sou Adelito! 👋😄
+# Que alegria receber sua visita! Sou Adelito! 👋😄
 
 ## 👨🏻‍💻Senior Software QA Engineer
 Profissional com 8 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Dextra](https://www.dextra.com.br).
