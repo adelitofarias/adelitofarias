@@ -2,6 +2,9 @@
 
 ### Que alegria receber sua visita! Sou Adelito! 👋😄
 
+## 👨🏻‍💻Senior QA Enginee
+Profissional com 8 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Dextra](https://www.dextra.com.br).
+
 <!--
 **adelitofarias/adelitofarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
