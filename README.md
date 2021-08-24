@@ -8,7 +8,7 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adelito/)
 
 ## 💻 Tecnologias
-<p align="left"> <a href="https://www.cypress.io/" target="_blank"> <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="cypress" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cypress.io/" target="_blank"> <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="cypress" width="80" height="80"/> </a> </p>
 
 ## My github stats
 
