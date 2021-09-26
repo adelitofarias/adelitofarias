@@ -10,7 +10,7 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 ## 💻 Tecnologias
 <p align="left"> <a href="https://www.cypress.io/" target="_blank"> <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/ac1e1/cypress-logo.webp" alt="Cypress.io" width="120" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="120" height="40"/> </a> </p>
+<p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> </p>
 
 ## My github stats
 
