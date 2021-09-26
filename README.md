@@ -12,7 +12,7 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 
 ## My github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelitofarias)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelitofarias&layout=compact&theme=dark)
 
 <!--
 **adelitofarias/adelitofarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
