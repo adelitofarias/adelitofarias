@@ -8,7 +8,13 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adelito/)
 
 ## 💻 Tecnologias
-<p align="left"> <a href="https://www.cypress.io/" target="_blank"> <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/ac1e1/cypress-logo.webp" alt="Cypress.io" width="120" height="40"/> </a> </p>
+<p align="left"> 
+  
+  <a href="https://www.cypress.io/" target="_blank"> <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/ac1e1/cypress-logo.webp" alt="Cypress.io" width="120" height="40"/> </a> 
+
+   <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> 
+  
+</p>
 
 <p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> </p>
 
