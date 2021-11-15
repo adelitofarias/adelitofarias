@@ -3,7 +3,7 @@
 # Que alegria receber sua visita! Sou Adelito! 👋😄
 
 ## 👨🏻‍💻Senior Software QA Engineer
-Profissional com 8 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Dextra](https://www.dextra.com.br).
+Profissional com 8 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Zup](https://www.zup.com.br/).
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adelito/)
 
