@@ -14,7 +14,7 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 
 <p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.postman.com/_mk-www/assets/about-postman-illustration-v6.svg" alt="Postman" width="240" height="240"/> </a> </p>
+<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.postman.com/_mk-www/assets/about-postman-illustration-v6.svg" alt="Postman" width="240" height="140"/> </a> </p>
 
 ## My github stats
 
