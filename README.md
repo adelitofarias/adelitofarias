@@ -16,7 +16,7 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 
 <p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.postman.com/_mk-www/assets/about-postman-illustration-v6.svg" alt="Postman" width="140" height="140"/> </a> </p>
 
-<p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="240" height="100"/> </a> </p>
+<p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="240" height="240"/> </a> </p>
 
 ## My github stats
 
