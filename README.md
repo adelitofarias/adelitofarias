@@ -14,6 +14,8 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 
 <p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="Postman" width="240" height="40"/> </a> </p>
+
 ## My github stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelitofarias&layout=compact)
