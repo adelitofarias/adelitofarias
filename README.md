@@ -16,7 +16,7 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 
 <p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="140" height="140"/> </a> </p>
 
-<p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="[https://avatars.githubusercontent.com/u/10251060?s=200&v=4](https://insomnia.rest/images/insomnia-logo.svg)" alt="Insomnia" width="140" height="140"/> </a> </p>
+<p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" width="140" height="140"/> </a> </p>
 
 
 <p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="240" height="140"/> </a> </p>
