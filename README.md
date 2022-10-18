@@ -3,7 +3,7 @@
 # Que alegria receber sua visita! Sou Adelito! 👋😄
 
 ## 👨🏻‍💻Senior Software QA Engineer
-Profissional com 8 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Zup](https://www.zup.com.br/).🎉
+Profissional com 9 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Zup](https://www.zup.com.br/).🎉
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adelito/)
 
@@ -14,11 +14,11 @@ Profissional com 8 anos de experiência na área de Qualidade de Software, possu
 
 <p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="140" height="140"/> </a> </p>
+<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="100" height="100"/> </a> </p>
 
-<p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" width="240" height="240"/> </a> </p>
+<p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" width="200" height="200"/> </a> </p>
 
-<p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="240" height="140"/> </a> </p>
+<p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="200" height="100"/> </a> </p>
 
 ## My github stats
 
