@@ -8,6 +8,17 @@ Profissional com 9 anos de experiência na área de Qualidade de Software, possu
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adelito/)
 
 ## 💻 Tecnologias
+
+
+   ##  
+
+<div style="display: inline_block"><br>
+<h3 align="left">Languages and Tools:</h3>
+<p aligh="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+
+
+
 <p align="left"> 
    <a href="https://www.cypress.io/" target="_blank"> <img src="https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png" alt="Cypress.io" width="120" height="40"/> </a>   
 </p>
