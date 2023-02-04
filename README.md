@@ -3,19 +3,11 @@
 # Que alegria receber sua visita! Sou Adelito! 👋😄
 
 ## 👨🏻‍💻Senior Software QA Engineer
-Profissional com 9 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Zup](https://www.zup.com.br/).🎉
+Profissional com 10 anos de experiência na área de Qualidade de Software, possuo graduação em Ciência da Computação pela UFPB, com formação complementar em Análise de Testes pelo CIn/UFPE, com Especialização em Informática em Saúde pela UNIFESP e certificado CTFL. Atualmente faço parte do time [Zup](https://www.zup.com.br/).🎉
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adelito/)
 
-## 💻 Tecnologias
-
-
-   ##  
-
-<div style="display: inline_block"><br>
-<h3 align="left">Languages and Tools:</h3>
-<p aligh="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
+## 💻 Ferramentas de Teste
 
 
 
@@ -25,11 +17,15 @@ Profissional com 9 anos de experiência na área de Qualidade de Software, possu
 
 <p align="left"> <a href="https://rest-assured.io/" target="_blank"> <img src="https://rest-assured.io/img/name-transparent.png" alt="REST Assured" width="240" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="100" height="100"/> </a> </p>
+<p align="left"> <a href="https://www.postman.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="50" height="50"/> </a> </p>
 
-<p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" width="200" height="200"/> </a> </p>
+<p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia" width="50" height="50"/> </a> </p>
+
+## 💻 Feramentas Colaborativas
 
 <p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="200" height="100"/> </a> </p>
+
+<p align="left"> <a href="https://xmind.app/download/" target="_blank"> <img src="https://media.licdn.com/dms/image/D560BAQGE9MCGpZHqmw/company-logo_200_200/0/1664433392125?e=1683763200&v=beta&t=CoxK-d_qvtw6JfNFjQ6DF7I60JxmaUW0gQcH0EFeeWw" alt="xmind" width="100" height="100"/> </a> </p>
 
 ## My github stats
 
