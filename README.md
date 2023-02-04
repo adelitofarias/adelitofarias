@@ -19,7 +19,7 @@ Profissional com 10 anos de experiência na área de Qualidade de Software, poss
 
 <p align="left"> <a href="https://insomnia.rest/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia" width="50" height="50"/> </a> </p>
 
-## 💻 Feramentas Colaborativas
+## ✍️ Feramentas Colaborativas
 
 <p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="200" height="100"/> </a> </p>
 
