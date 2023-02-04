@@ -9,8 +9,6 @@ Profissional com 10 anos de experiência na área de Qualidade de Software, poss
 
 ## 💻 Ferramentas de Automação de Teste
 
-
-
 <p align="left"> 
    <a href="https://www.cypress.io/" target="_blank"> <img src="https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-light.png" alt="Cypress.io" width="120" height="40"/> </a>   
 </p>
@@ -26,6 +24,17 @@ Profissional com 10 anos de experiência na área de Qualidade de Software, poss
 <p align="left"> <a href="https://miro.com/" target="_blank"> <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/175320c40b2c67ec332a8b5038337b90/Miro_logo_news.png" alt="Miro" width="200" height="100"/> </a> </p>
 
 <p align="left"> <a href="https://xmind.app/download/" target="_blank"> <img src="https://media.licdn.com/dms/image/D560BAQGE9MCGpZHqmw/company-logo_200_200/0/1664433392125?e=1683763200&v=beta&t=CoxK-d_qvtw6JfNFjQ6DF7I60JxmaUW0gQcH0EFeeWw" alt="xmind" width="100" height="100"/> </a> </p>
+
+
+
+## 💻 Feramentas de Gestão
+
+<p align="left"> <a href="https://www.atlassian.com/br/software/jira" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" width="50" height="50"/> </a> </p>
+
+<p align="left"> <a href="https://www.openproject.org/" target="_blank"> <img src="https://www.openproject.org/assets/images/press/openproject-icon-original-color-41055eb6.png" alt="openproject" width="50" height="50"/> </a> </p>
+
+<p align="left"> <a href="https://www.tuleap.org/" target="_blank"> <img src="https://d4.alternativeto.net/S9GsjKmmtq8ga0X7WA_RHpbFpByy_YABTF6CjVEgGDs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90dWxlYXAtb3Blbi1hbG1fMTQyMzQxLnBuZw.png" alt="tuleap" width="50" height="50"/> </a> </p>
+
 
 ## My github stats
 
