@@ -27,7 +27,7 @@ Profissional com 10 anos de experiência na área de Qualidade de Software, poss
 
 
 
-## 💻 Feramentas de Gestão
+## 📊 Feramentas de Gestão
 
 <p align="left"> <a href="https://www.atlassian.com/br/software/jira" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" width="50" height="50"/> </a> </p>
 
